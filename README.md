@@ -1,8 +1,6 @@
 
 - 🔭 I’m currently working on design patterns.
-- 🌱 I’m currently learning Go, React Native
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Go, React Native, TypeScript
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hasangokce&show_icons=true">
 

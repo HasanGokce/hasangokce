@@ -7,7 +7,7 @@
 # Hi, I am Hasan Gokce! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasangokce" alt="hasangokce" /> </p>
 
-[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/hasangokce)
+[![](https://img.shields.io/twitter/follow/hasangokce?style=social)](https://www.twitter.com/hasangokce)
 [![](https://img.shields.io/github/followers/hasangokce?style=social)](https://www.github.com/hasangokce)
 
 

@@ -1,6 +1,5 @@
 
-- 🔭 I’m currently working on design patterns.
-- 🌱 I’m currently learning Go, React Native, TypeScript
+- 🔭 I’m currently working on design patterns and clean code.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hasangokce&show_icons=true">
 

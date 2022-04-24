@@ -1,10 +1,12 @@
 
-- 🔭 I’m currently working on design patterns and clean code.
+- 🔭 I’m currently working on "Refactoring : Improving the Design of Existing Code Martin Fowler" by  Martin Fowler
 
+
+<!---
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hasangokce&show_icons=true">
 
 # Hi, I am Hasan Gokce!
-<!---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasangokce" alt="hasangokce" /> </p>
 -->
 
